@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DatiAziende/static/css/main.8687a866.chunk.css",
-    "main.js": "/DatiAziende/static/js/main.f89a16ee.chunk.js",
-    "main.js.map": "/DatiAziende/static/js/main.f89a16ee.chunk.js.map",
+    "main.js": "/DatiAziende/static/js/main.c5341f81.chunk.js",
+    "main.js.map": "/DatiAziende/static/js/main.c5341f81.chunk.js.map",
     "runtime-main.js": "/DatiAziende/static/js/runtime-main.45c0c1cb.js",
     "runtime-main.js.map": "/DatiAziende/static/js/runtime-main.45c0c1cb.js.map",
     "static/js/2.539d06a7.chunk.js": "/DatiAziende/static/js/2.539d06a7.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.45c0c1cb.js",
     "static/js/2.539d06a7.chunk.js",
     "static/css/main.8687a866.chunk.css",
-    "static/js/main.f89a16ee.chunk.js"
+    "static/js/main.c5341f81.chunk.js"
   ]
 }
